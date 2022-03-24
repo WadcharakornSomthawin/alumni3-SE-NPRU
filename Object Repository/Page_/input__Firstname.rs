@@ -6,12 +6,12 @@
    <elementGuidId>89411888-47af-4ed3-b6e1-f70a5bd70b38</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='inputFirstname']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#inputFirstname</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='inputFirstname']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -54,6 +54,13 @@
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>วัชรากร</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;inputFirstname&quot;)</value>
@@ -70,7 +77,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
+      <value>//div/div/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,5 +85,12 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'Firstname' and @id = 'inputFirstname']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
    </webElementXpaths>
 </WebElementEntity>
