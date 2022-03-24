@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC 2.2 Search by Year (Success)</name>
+   <name>TC 3.1 Search by Name (Success)</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>4a0a2a80-c8a8-4127-96f4-db5a1d6767d1</testCaseGuid>
+   <testCaseGuid>54c509c8-3c01-46b5-8d3f-8d4508217a36</testCaseGuid>
 </TestCaseEntity>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS3 Register</name>
+   <name>TS2 Login</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,23 +10,23 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>9c0c1508-5875-4971-a542-ebd5f39f1312</testSuiteGuid>
+   <testSuiteGuid>750417e8-2146-48b6-8f06-e584ecf1b132</testSuiteGuid>
    <testCaseLink>
-      <guid>c591bf60-0d7d-4fd1-b3ed-bb8a9eb61327</guid>
+      <guid>722335b6-9cd4-450c-9bcd-804cc1f37447</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Register/TC 3.1 Register (Success)</testCaseId>
+      <testCaseId>Test Cases/Login/TC 2.1 Login (Success)</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>8df3f30d-00c8-4ee8-882d-b376ecea312a</guid>
+      <guid>48f62aa5-a735-4996-b3e8-15ce32758f02</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Register/TC 3.2 Register (Fail1 Sex)</testCaseId>
+      <testCaseId>Test Cases/Login/TC 2.2 Login (Fail No-Username)</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>4da3b0f6-0d54-4e29-a647-6b594455b044</guid>
+      <guid>e5faee2d-e78f-4a74-9899-5f954c9bb94d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Register/TC 3.3 Register (Fail2 WorkSP)</testCaseId>
+      <testCaseId>Test Cases/Login/TC 2.3 Login (Fail No-Password)</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

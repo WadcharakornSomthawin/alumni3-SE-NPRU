@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC 1.3 Login (Fail No-Password)</name>
+   <name>TC 3.3 Search by Sec (Success)</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>de3b00ae-f247-4538-8098-b8ef701a6b4a</testCaseGuid>
+   <testCaseGuid>120fa350-7f80-47eb-9364-bf96bfa5cab2</testCaseGuid>
 </TestCaseEntity>
