@@ -6,12 +6,12 @@
    <elementGuidId>3949c144-8566-4a95-a2d1-4bb137e8c2d4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#ทำงานแล้ว</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='ทำงานแล้ว']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ทำงานแล้ว</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -70,7 +70,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[7]/div/input</value>
+      <value>//div[9]/div/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,13 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @id = 'ทำงานแล้ว' and @name = 'Work']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

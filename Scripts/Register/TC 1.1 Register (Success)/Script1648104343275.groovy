@@ -31,7 +31,7 @@ WebUI.click(findTestObject('Object Repository/Page_/input__Sex'))
 
 WebUI.setText(findTestObject('Object Repository/Page_/input__StudentID'), '634259015')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_/input__Password'), 'aeHFOx8jV/A=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_/input__Password'), 'CSt51UwWECc=')
 
 WebUI.setText(findTestObject('Object Repository/Page_/input__Section'), '63/50')
 
@@ -49,9 +49,11 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_/select_'), 'à¸
 
 WebUI.click(findTestObject('Object Repository/Page_/input__Work'))
 
+WebUI.click(findTestObject('Object Repository/Page_/input__Work_1'))
+
 WebUI.setText(findTestObject('Object Repository/Page_/input__Workplace'), '-')
 
-WebUI.setText(findTestObject('Object Repository/Page_/input__Phonenumber'), '0967305591')
+WebUI.setText(findTestObject('Object Repository/Page_/input__Phonenumber'), '000000000')
 
 WebUI.click(findTestObject('Object Repository/Page_/button_'))
 
