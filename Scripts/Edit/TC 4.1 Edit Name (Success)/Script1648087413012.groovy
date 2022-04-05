@@ -31,13 +31,17 @@ WebUI.click(findTestObject('Object Repository/Page_/button_'))
 
 WebUI.click(findTestObject('Object Repository/Page_/a__1'))
 
-WebUI.setText(findTestObject('Object Repository/Page_/input__Firstname'), 'วัชรากร 015')
+WebUI.click(findTestObject('Object Repository/Page_/input__Firstname'))
+
+WebUI.click(findTestObject('Object Repository/Page_/input__Firstname'))
+
+WebUI.setText(findTestObject('Object Repository/Page_/input__Firstname'), 'วัชรากร 63/50')
 
 WebUI.click(findTestObject('Object Repository/Page_/button__1'))
 
-WebUI.verifyTextPresent('วัชรากร 015', false)
-
 WebUI.click(findTestObject('Object Repository/Page_/a__1_2'))
+
+WebUI.verifyTextPresent('เข้าสู่ระบบ', false)
 
 WebUI.closeBrowser()
 

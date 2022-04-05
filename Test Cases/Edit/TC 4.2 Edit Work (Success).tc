@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC 4.2 Edit Work</name>
+   <name>TC 4.2 Edit Work (Success)</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>706967ff-f614-481c-b89d-fc931161535b</testCaseGuid>

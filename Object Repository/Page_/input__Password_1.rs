@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__Password</name>
+   <name>input__Password_1</name>
    <tag></tag>
-   <elementGuidId>e55be70a-8abd-4792-b5d3-da46971ff0b8</elementGuidId>
+   <elementGuidId>74bdc84b-0421-4e96-b8d2-68a0e04d689c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -85,26 +85,5 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'password-field' and @type = 'password' and @placeholder = 'รหัสผ่าน' and @name = 'Password']</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//input[@id='inputPassword']</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[3]/input</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'password' and @name = 'Password' and @id = 'inputPassword']</value>
    </webElementXpaths>
 </WebElementEntity>

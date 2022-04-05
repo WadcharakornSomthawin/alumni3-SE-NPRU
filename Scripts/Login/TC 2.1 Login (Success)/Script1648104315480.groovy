@@ -29,9 +29,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_/input__Password')
 
 WebUI.click(findTestObject('Object Repository/Page_/button_'))
 
-WebUI.verifyTextPresent('ยินดีต้อนรับ', false)
-
-WebUI.click(findTestObject('Object Repository/Page_/a__1'))
+WebUI.verifyTextPresent('วัชรากร', false)
 
 WebUI.closeBrowser()
 

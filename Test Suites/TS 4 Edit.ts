@@ -21,6 +21,6 @@
       <guid>393402eb-cd71-4402-9f65-0e344311bb71</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Edit/TC 4.2 Edit Work</testCaseId>
+      <testCaseId>Test Cases/Edit/TC 4.2 Edit Work (Success)</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
