@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC 3.3 Search by Sec (Success)</name>
+   <name>TC 5.4 Search by StudentID (Success)</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>120fa350-7f80-47eb-9364-bf96bfa5cab2</testCaseGuid>
+   <testCaseGuid>1183cf8f-d3ed-4e1f-8c4a-5174a5d05cea</testCaseGuid>
 </TestCaseEntity>

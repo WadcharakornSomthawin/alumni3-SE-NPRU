@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS2 Login</name>
+   <name>TS3 Edit</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,23 +10,17 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>750417e8-2146-48b6-8f06-e584ecf1b132</testSuiteGuid>
+   <testSuiteGuid>c0984432-5564-4cac-977d-feaf7c82c179</testSuiteGuid>
    <testCaseLink>
-      <guid>722335b6-9cd4-450c-9bcd-804cc1f37447</guid>
+      <guid>2b5a2212-cf76-4955-947b-964e97441457</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/TC 2.1 Login (Success)</testCaseId>
+      <testCaseId>Test Cases/Edit/TC 3.1 Edit Name (Success)</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>48f62aa5-a735-4996-b3e8-15ce32758f02</guid>
+      <guid>393402eb-cd71-4402-9f65-0e344311bb71</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/TC 2.2 Login (Fail No-Username)</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>e5faee2d-e78f-4a74-9899-5f954c9bb94d</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/TC 2.3 Login (Fail No-Password)</testCaseId>
+      <testCaseId>Test Cases/Edit/TC 3.2 Edit Work (Success)</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
